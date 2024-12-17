@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Krushna Chandra
-
+![](https://komarev.com/ghpvc/?username=developer-krushna&color=green)
 ## About Me
 
 - Currently refining my Java skills.
