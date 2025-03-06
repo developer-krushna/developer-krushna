@@ -1,5 +1,6 @@
 # Hi there! 👋 I'm Krushna Chandra
 ![](https://komarev.com/ghpvc/?username=developer-krushna&color=green)
+<a href="https://stardev.io/developers/developer-krushna"><img alt="Check out developer-krushna&apos;s profile on stardev.io" src="https://stardev.io/developers/developer-krushna/badge/languages/global.svg" /></a>
 ## About Me
 
 - Currently refining my Java skills.
