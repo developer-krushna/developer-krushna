@@ -27,7 +27,7 @@ Feel free to reach out:
 
 ## Skills
 
-- **Languages:** Java
+- **Languages:** Java, Smali, Html, JS
 - **Developer of Modder Hub:** My small tool developed with high quality codes having 40 + features and can be helpful and useful for android reversers
 - **Modder of MT Manager :**  I'm a modder of [MT Manager](https://t.me/Modder_Hub/844), a popular Android reverse engineering tool.
 - **Interests:** Android App developer, Reverse Engineering, Multi platform Library and Java Library Enhancement
