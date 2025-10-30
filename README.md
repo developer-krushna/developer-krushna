@@ -12,7 +12,7 @@
 
 Feel free to reach out:
 
-- 📧 Email: [mt.modder.hub@gmail.com](mailto:mt.modder.hub@gmail.com)
+- 📧 Email: [modder-hub@zohomail.com](mailto:modder-hub@zohomail.com)
 - 🐦 [Twitter](https://twitter.com/KrushnaMaharna) | 📞 [Telegram](https://t.me/Modder_Hub)
 
 ## Tools I Use
